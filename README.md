@@ -1,1 +1,3 @@
-# Plinko-2
+Plinko with scores
+link below:-
+https://suwarna-cloud.github.io/Plinko-With-Scores/
