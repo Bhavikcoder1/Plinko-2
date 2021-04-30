@@ -1,3 +1,3 @@
 Plinko with scores
 link below:-
-https://suwarna-cloud.github.io/Plinko-With-Scores/
+https://bhavikcoder1.github.io/Plinko-2/
